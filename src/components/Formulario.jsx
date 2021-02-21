@@ -87,6 +87,7 @@ const Formulario = ( { guardarMoneda, guardarCriptomoneda } ) => {
             <Boton
                 type="submit"
                 value="Calcular"
+                // disabled={ true }
             />
         </form>
     );
